@@ -154,10 +154,7 @@ img {
 
 .socials-link:hover,
 .main-button:hover,
-.main-button:focus {
-  background-color: #404bbf;
-}
-
+.main-button:focus,
 .socials-link:focus {
   background-color: #404bbf;
 }

@@ -223,9 +223,9 @@ img {
   margin-bottom: 8px;
 }
 
-.icon-sprite {
-  width: 64px;
-  height: 64px;
+svg {
+  width: 64;
+  height: 64;
 }
 
 .features {
